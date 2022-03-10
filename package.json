@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "expressbackend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostaschaidoulis/ExpressBackEnd.git"
+  },
+  "author": "kostas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kostaschaidoulis/ExpressBackEnd/issues"
+  },
+  "homepage": "https://github.com/kostaschaidoulis/ExpressBackEnd#readme",
+  "description": ""
+}
